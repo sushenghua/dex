@@ -1,2 +1,2 @@
 # dex
-dex
+dex on Ethereum chain
